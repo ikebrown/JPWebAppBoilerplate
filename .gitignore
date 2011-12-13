@@ -1,0 +1,7 @@
+/nbproject
+/nbproject/private/
+# Ignore all dotfiles...
+.*
+# except for .gitignore
+!.gitignore
+!.gitmodules
